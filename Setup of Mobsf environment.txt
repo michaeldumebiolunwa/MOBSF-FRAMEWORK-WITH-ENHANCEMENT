@@ -1,0 +1,52 @@
+ Step 1: Install Docker Desktop
+Go to the official Docker site:
+https://www.docker.com/
+Download and install it for Windows.
+During installation:
+Enable WSL 2 if prompted.
+Restart your computer after install.
+Verify Docker works
+
+Open Command Prompt / PowerShell and run:
+
+docker --version
+
+You should see a version number.
+
+Step 2: Start Docker
+Open Docker Desktop
+Wait until it says “Docker is running”
+Step 3: Pull MobSF Docker Image
+
+Run this in your terminal:
+
+docker pull opensecurity/mobile-security-framework-mobsf
+
+This downloads the official MobSF image.
+
+Step 4: Run MobSF Container
+
+Now start MobSF:
+
+docker run -it --rm -p 8000:8000 opensecurity/mobile-security-framework-mobsf
+What this does:
+-p 8000:8000 → exposes MobSF on your local machine
+--rm → removes container when stopped
+-it → interactive mode
+ Step 5: Access MobSF in Browser
+
+Open your browser and go to:
+
+http://127.0.0.1:8000
+
+You should now see the MobSF dashboard 
+
+ Step 6: Upload and Scan an App
+
+Once inside MobSF:
+
+Drag and drop your APK/IPA file
+MobSF will automatically:
+Decompile the app
+Run static analysis
+Show vulnerabilities
