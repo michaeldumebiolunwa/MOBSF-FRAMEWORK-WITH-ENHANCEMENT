@@ -1,0 +1,31 @@
+S/No	App Name	Category	Version	Source URL
+1	ShareX	Utility	2.3.8	https://f-droid.org/en/packages/com.akansh.fileserversuit/
+2	Battery Notification	Utility	1.4.7	https://f-droid.org/en/packages/com.ominous.batterynotification/
+3	Calculator M3	Utility	1.4.3	https://f-droid.org/en/packages/com.vagujhelyigergely.calculatorm3/
+4	Money Manager Ex	Finance	5.5.5	https://f-droid.org/en/packages/com.money.manager.ex/
+5	Piggsy	Finance	1.11.1	https://f-droid.org/en/packages/com.nvllz.piggsy/
+6	Simple Money Tracker	Finance	0.8.11	https://f-droid.org/en/packages/com.xvzan.simplemoneytracker/
+7	HappyTaxes	Finance	1.0.9	https://f-droid.org/en/packages/io.github.dorumrr.happytaxes/
+8	GreenStash: Track Your Savings	Finance	4.3.0	https://f-droid.org/en/packages/com.starry.greenstash/
+9	TrackerControl	Cybersecurity	2026.04.03	https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/
+10	Athena: Firewall DNS AdBlocker	Cybersecurity	1.80	https://f-droid.org/en/packages/com.kin.athena/
+11	Karma Firewall	Cybersecurity	66	https://f-droid.org/en/packages/net.stargw.fok/
+12	Dima Defense	Games	0.5.1	https://f-droid.org/en/packages/org.xolatgames.dima.defense/
+13	TacticMaster	Games	1.0.31	https://f-droid.org/en/packages/com.tacticmaster/
+14	Unblock Jam	Games	2.4.0	https://f-droid.org/en/packages/com.vayunmathur.games.unblockjam/
+15	Easter Eggs	Games	4.5.0	https://f-droid.org/en/packages/com.dede.android_eggs/
+16	Gotify	Internet	2.9.0	https://f-droid.org/en/packages/com.github.gotify/
+17	Forkgram	Internet	12.6.5.0	https://f-droid.org/en/packages/org.forkgram.messenger/
+18	Seers Lodge	Internet	1.1.4	https://f-droid.org/en/packages/chat.seers.app/
+19	DankChat	Internet	4.0.36	https://f-droid.org/en/packages/com.flxrs.dankchat/
+20	FREE Browser	Internet	3.5	https://f-droid.org/en/packages/org.woheller69.browser/
+21	Homer Audio Player for Seniors	Media	1.5.7	https://f-droid.org/en/packages/com.studio4plus.homerplayer2/
+22	Chocola	Media	4.1.0	https://f-droid.org/en/packages/com.sosauce.cutemusic/
+23	Satunes	Media	3.3.5	https://f-droid.org/en/packages/io.github.antoinepirlot.satunes/
+24	Booming Music	Media	1.2.2	https://f-droid.org/en/packages/com.mardous.booming/
+25	Next Player	Media	0.14.1	https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/
+26	Bimba	Navigation	3.11.0	https://f-droid.org/en/packages/xyz.apiote.bimba.czwek/
+27	Carburoid	Navigation	1.6.3	https://f-droid.org/en/packages/net.canvoki.carburoid/
+28	LibreFit	Health	0.1.5	https://f-droid.org/en/packages/org.librefit.app/
+29	Flexify	Health	2.1.65 	https://f-droid.org/en/packages/com.presley.flexify/
+30	Stepsy: Step Counter	Health	1.6.2	 https://f-droid.org/en/packages/com.nvllz.stepsy/
